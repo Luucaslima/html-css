@@ -14,11 +14,13 @@ header {
     background-color: black;
     color: white;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header>h1 {
     padding-top: 50px;
     text-transform: uppercase;
+    font-size: 5vw;
 }
 
 header > p {
@@ -39,6 +41,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 section.normal {
@@ -53,7 +56,8 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.336);
     color: white;
 }
