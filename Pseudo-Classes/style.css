@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div:hover {
+    background-color: rgb(77, 77, 218);
+    width: 200px;
+}
+botao {
+    background-color: aqua;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: #B57114;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #B57114;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+
+
+}
+
+h2 {
+    color: #962B09;
+}
+p {
+    color: black;
+}
+.basico {
+    color:#706513;
+}
+.intermediario {
+    color:#08403E;
+}
+.avançado {
+    color: #520120;
+}
