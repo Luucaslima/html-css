@@ -43,6 +43,10 @@ section {
     padding-left: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
+section > p {
+    padding-bottom: 2em;
+
+}
 
 section.normal {
     background-color: white;
@@ -60,6 +64,13 @@ section.imagem > p {
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.336);
     color: white;
+}
+section#idimg01 {
+    background-image: url(../imagens/background001.jpg);
+
+}
+section#idimg02 {
+background-image: url(../imagens/background002.jpg);
 }
 
 footer {
